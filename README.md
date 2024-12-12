@@ -35,7 +35,7 @@ Ventajas:
 
 Simple y previsible; La forma de revisarlo es simple y puedes saber cuándo y cuanto puedes hacer los pagos.  
 
-###Desventajas: 
+Desventajas: 
 
 Interés y pago final; Debido a que todo se hace con la finalidad de resultar rentable como negocio, la facilidad de pago y comodidad termina normalmente en un pago de interés relativamente alto que concluye en que el pago final es ligeramente superior al monto prestado más el interés anual aplicado debido a la amortización. 
 
@@ -45,75 +45,14 @@ Sistema Alemán o Amortización Constante
 Para este ejemplo se tomará el siguiente escenario: 
 Se solicitó un préstamo de $100,000.00 para cancelarlo en el plazo de un año mediante el pago de cuotas trimestrales. Si la Tasa de Interés es de 10%  
 
+| Trimestre | Saldo Deudor | Amortización | Interés | Cuota    |
+| --------- | ---------    | --------- | --------- | --------- |
+| 0         | $100,000     |           |           |           |
+| 0         | $75,000      | $25,000   | $10,000   | $35,500   |
+| 1         | $50,000      | $25,000   | $7,500    | $32,500   |
+| 2         | $25,000      | $25,000   | $5,000    | $30,000   |
+| 3         | $0           | $25,000   | $2,500    | $27,500   |
+| Total     |              | $100,000  |  $25,000  | $125,000  |
 
-Trimestre 
-
-Saldo deudor 
-
-Amortización 
-
-Interés 
-
-Cuota 
-
-0 
-
-$100,000.00 
-
- 
-
- 
-
- 
-
-1 
-
-$75,000 
-
-$25,000 
-
-$10,000 
-
-$35,500 
-
-2 
-
-$50,000 
-
-$25,000 
-
-$7,500 
-
-$32,500 
-
-3 
-
-$25,000 
-
-$25,000 
-
-$5,000 
-
-$30,000 
-
-4 
-
-$0 
-
-$25,000 
-
-$2,500 
-
-$27,500 
-
-Total 
-
- 
-
-$100,000 
-
-$25,000 
-
-$125,000 
 
 
