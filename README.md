@@ -25,7 +25,7 @@ Con este tipo de herramienta se puede llegar a tener una mejor Planificación a 
 
 La importancia de este método radica en su fácil acceso, uso y beneficio para ambos lados (Solicitante y prestamista). Ya que facilita una forma de pago cómoda y eficiente al mismo tiempo que genera intereses y creando el “negocio” para un acuerdo de estas características.  
 
-###Concepto de Amortización Constante 
+### Concepto de Amortización Constante 
  
 Al principio del período de amortización, una mayor parte del pago se destina a los intereses del préstamo, mientras que una menor porción se destina a amortizar el capital. Con el tiempo, la porción destinada a los intereses disminuye y la parte destinada al capital aumenta. 
 
